@@ -1,2 +1,2 @@
 # EvilGeniuses_DSAssessment
-hello
+hello!
